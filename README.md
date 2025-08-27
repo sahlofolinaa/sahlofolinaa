@@ -1,16 +1,15 @@
-## Hi there 👋
+> [!Caution]
+> this readme is currently very under construction. tbh it's more of a DONTreadme rn. unless you want to be exposed to the horrors of me breaking the editor and not being organized whatsoever in the process :')
 
-<!--
-**sahlofolinaa/sahlofolinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi :D  
 
-Here are some ideas to get you started:
+my name is nico, and im new around here - i just started college, which is very generous and gifts their students ✨free stuff✨ sooooo yeah i exist now :3  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i also didn't look at anyone else's readme before starting this one because tbh i have no idea how to find anyone else so uh yeah this will probably not be formatted like they're sUpPoSeD to be or have the right stuff in it or whatever but oh well
+
+anyway actual information you might care about instead of this pointless rambling about how lost and clueless i am :]  
+
+<details>
+<summary><h2>about me</h2></summary>
+	i feel the need to put something here for now but this is where the construction zone starts oops
+</details>
