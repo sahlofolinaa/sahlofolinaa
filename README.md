@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="https://github.com/sahlofolinaa/sahlofolinaa/blob/main/readmestyle.css">
+	</head>
+</html>
+
 > [!Caution]
 > this readme is currently very under construction. tbh it's more of a DONTreadme rn. unless you want to be exposed to the horrors of me breaking the editor and not being organized whatsoever in the process :')
 
